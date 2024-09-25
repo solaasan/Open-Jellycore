@@ -29,7 +29,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Open Jellycore Code of Conduct](https://github.com/ActuallyTaylor/Open-Jellycoreblob/master/CODE_OF_CONDUCT.md).
+[Open Jellycore Code of Conduct](https://github.com/OpenJelly/Open-Jellycore/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <jellycuts@gmail.com>.
 
@@ -134,11 +134,11 @@ A git client should be able to just take the url `https://github.com/ActuallyTay
 The rest of the process is fairly straight forward and really pretty simple. You just need to open the `Package.swift` file that is found within the folder you just cloned. This will open the swift package in Xcode and prepare all of the Swift Packages used by the project.
 
 ### Improving The Documentation
-Whenever uou make a contribution you should make sure you also are improving the documentation. Open Jellycore is almost completely documented using [DocC](https://developer.apple.com/documentation/docc). This documentation is then generated and uploaded to the documentation site https://actuallytaylor.github.io/Open-Jellycore/documentation/open_jellycore/. When you create new parts of Jellycore be sure to document as you go!
+Whenever you make a contribution you should make sure you also are improving the documentation. Open Jellycore is almost completely documented using [DocC](https://developer.apple.com/documentation/docc). This documentation is then generated and uploaded to the documentation site https://actuallytaylor.github.io/Open-Jellycore/documentation/open_jellycore/. When you create new parts of Jellycore be sure to document as you go!
 
 ## Styleguides
 ### Commit Messages
-Commit messages do not have an particular style. Just make sure they make it clear what you changed.
+Commit messages do not have a particular style. Just make sure they make it clear what you changed.
 
 ## Join The Project Team
 Currently we are not accepting a new lead maintainers for the project. But we may be in the future!
