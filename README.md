@@ -7,7 +7,7 @@
 An open source version of the originally closed source Jellycore. This package handles all of the transpiling of Jelly -> Shortcuts.
 
 ## Compiling in the Command Line
-To compile a Jellycut using the CLI, you will need to first install Jelly from the [homebrew](https://brew.sh) package manager. 
+To compile a Jellycut using the CLI, you will need to first install Jelly from the [Homebrew](https://brew.sh) package manager. 
 
 ```
 # Get the brew tap that hosts Jelly
@@ -36,12 +36,12 @@ You may see this package and ask, Why is this a brand new repository?
 
 The answer is quite simple, the old repository is extremely bloated and with 3 years of history I was not able to quickly ensure nothing sensitive was accidentally being leaked. Jellycore used to be closely linked to Jellycuts so a lot of the code is hard to understand and poorly documented. 
 
-The creation of a new repository turned out to be faster and much more efficient then converting the old Jellycore into a repository that was safe to Open Source. Rewriting Jellycore also provided me the ability to document every piece of code so it is easy for anyone looking at it to understand. 
+The creation of a new repository turned out to be faster and much more efficient than converting the old Jellycore into a repository that was safe to Open Source. Rewriting Jellycore also provided me the ability to document every piece of code so it is easy for anyone looking at it to understand. 
 
-Even though this is a new repository, you will see parts of code that have been present since the original versions of Jellycuts. The information at the top of files is was kept when moving files.
+Even though this is a new repository, you will see parts of code that have been present since the original versions of Jellycuts. The information at the top of files was kept when moving files.
 
 ## Features (Compared to Private Jellycore)
-Because this is a brand new version of Jellycore, it does not currently support all of the original features of the Jelly languages. However, Open Jellycore will eventually have feature parody with the Private Jellycore versions.
+Because this is a brand new version of Jellycore, it does not currently support all of the original features of the Jelly language. However, Open Jellycore will eventually have feature parity with the Private Jellycore versions.
 
 | Feature                        | Open Jellycore | Private Jellycore |
 | ------------------------------ | -------------- | ----------------- |
@@ -72,4 +72,4 @@ I have written this version of Jellycore with the intention of it being possible
 The entirety of Jellycore is documented using Doc-C. [See Online documentation](https://openjelly.github.io/Open-Jellycore/documentation/open_jellycore/).
 
 # Contributing
-If you are curious about contributing or where to start, the Features header is a great place to look at what is still left! If you are looking for smaller things to fix, there are a plethora of `// TODO:` comments throughout the library that are all small fixes or additions that would be nice to have.
+If you are curious about contributing or where to start, the Features header is a great place to look at what is still left! If you are looking for smaller things to fix, there is a plethora of `// TODO:` comments throughout the library that are all small fixes or additions that would be nice to have.
